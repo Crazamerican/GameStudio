@@ -182,13 +182,13 @@
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 181
 "F:/UnrealProjects/MyProject4/Content/EndMenu_BuiltData.uasset" 182
 "../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 183
-"F:/UnrealProjects/MyProject4/Content/Blueprints/Menu.uasset" 184
+"F:/UnrealProjects/MyProject4/Content/Blueprints/LoseMenu.uasset" 184
 "F:/UnrealProjects/MyProject4/Content/ScoreBluePrint.uasset" 185
 "F:/UnrealProjects/MyProject4/Content/EndMenu.umap" 186
 "F:/UnrealProjects/MyProject4/Content/MainMenu_BuiltData.uasset" 187
-"F:/UnrealProjects/MyProject4/Content/MainMenu.umap" 188
-"F:/UnrealProjects/MyProject4/Content/Movement_BuiltData.uasset" 189
-"F:/UnrealProjects/MyProject4/Content/Blueprints/LoseMenu.uasset" 190
+"F:/UnrealProjects/MyProject4/Content/Blueprints/Menu.uasset" 188
+"F:/UnrealProjects/MyProject4/Content/MainMenu.umap" 189
+"F:/UnrealProjects/MyProject4/Content/Movement_BuiltData.uasset" 190
 "F:/UnrealProjects/MyProject4/Content/Blueprints/ScoreBluePrint.uasset" 191
 "F:/UnrealProjects/MyProject4/Content/Movement.umap" 192
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 193
